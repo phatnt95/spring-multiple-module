@@ -1,1 +1,1 @@
-# core-module
+# crm-multiple-module
