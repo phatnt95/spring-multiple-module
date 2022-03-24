@@ -1,0 +1,3 @@
+rootProject.name='spring-multiple-module'
+include 'say-hello'
+include 'user'
