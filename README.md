@@ -1,1 +1,1 @@
-# crm-multiple-module
+# spring-multiple-module
