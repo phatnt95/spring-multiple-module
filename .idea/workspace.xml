@@ -5,88 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7342cef9-0683-460e-8a79-1a62fc633653" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy-datasource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/src/main/java/io/github/phatnt95/account/AccountServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/src/main/java/io/github/phatnt95/account/controller/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account-service/src/test/java/io/github/phatnt95/account/AccountServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/src/main/java/io/github/phatnt95/configserver/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configserver/src/test/java/io/github/phatnt95/configserver/ConfigserverApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/CoreServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/account/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/account/model/AccountFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/account/repository/AccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/account/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/account/service/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/utils/AbstractModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-service/src/test/java/io/github/phtnt95/core/CoreServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/java/io/github/phatnt95/discovery/DiscoveryServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/src/test/java/io/github/phatnt95/discovery/DiscoveryServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/src/main/java/phatnt95/github/io/springmultiplemodulesayhello/SpringMultipleModuleSayHelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/say-hello/src/test/java/phatnt95/github/io/springmultiplemodulesayhello/SpringMultipleModuleSayHelloApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/src/main/java/phatnt95/github/io/user/SayHelloConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/src/main/java/phatnt95/github/io/user/UserApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/src/main/java/phatnt95/github/io/user/WebClientConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/src/main/java/phatnt95/github/io/user/controller/UserGreetingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/src/test/java/phatnt95/github/io/user/UserApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/src/main/java/io/github/phatnt95/configserver/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configserver/src/test/java/io/github/phatnt95/configserver/ConfigserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/CoreServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/core-service/src/main/java/io/github/phtnt95/core/CoreServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/java/io/github/phatnt95/discovery/DiscoveryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-service/src/test/java/io/github/phatnt95/discovery/DiscoveryServiceApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +57,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -158,19 +102,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/service-eureka-client/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.CoreServiceApplication">
-    <configuration name="ConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.phatnt95.configserver.ConfigServerApplication" />
-      <module name="configserver" />
+  <component name="RunManager" selected="JUnit.CoreServiceApplicationTests">
+    <configuration name="AccountServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.phatnt95.account.AccountServiceApplication" />
+      <module name="account-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.phatnt95.configserver.*" />
+          <option name="PATTERN" value="io.github.phatnt95.account.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscoveryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.github.phatnt95.discovery.DiscoveryServiceApplication" />
-      <module name="discovery-service" />
+    <configuration name="ServerEurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.phatnt95.servereureka.ServerEurekaApplication" />
+      <module name="server-eureka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.github.phatnt95.discovery.*" />
+          <option name="PATTERN" value="io.github.phatnt95.servereureka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +149,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceEurekaClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.phatnt95.serviceeurekaclient.ServiceEurekaClientApplication" />
+      <module name="service-eureka-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.phatnt95.serviceeurekaclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoreServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="core-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.phtnt95.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.phtnt95.core" />
+      <option name="MAIN_CLASS_NAME" value="io.github.phtnt95.core.CoreServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CoreServiceApplicationTests" />
         <item itemvalue="Application.CoreServiceApplication" />
-        <item itemvalue="Application.ConfigServerApplication" />
-        <item itemvalue="Application.DiscoveryServiceApplication" />
+        <item itemvalue="Application.ServiceEurekaClientApplication" />
+        <item itemvalue="Application.ServerEurekaApplication" />
+        <item itemvalue="Application.AccountServiceApplication" />
       </list>
     </recent_temporary>
   </component>
